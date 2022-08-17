@@ -1,4 +1,4 @@
-tensorflow
+tensorflow-cpu
 opencv-python
 matplotlib
 tensorflow_hub
