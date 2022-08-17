@@ -3,5 +3,5 @@ cv2
 opencv-python
 matplotlib
 tensorflow_hub
-fastapi
-"uvicorn[standard]"
+fastapi==0.79.0
+uvicorn==0.18.2
